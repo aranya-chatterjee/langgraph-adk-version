@@ -1,0 +1,13 @@
+# Secrets -- never commit. .env holds GROQ_API_KEY and GITHUB_TOKEN.
+.env
+.env.*
+!.env.example
+
+# Virtualenvs
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/

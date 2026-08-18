@@ -1,0 +1,8 @@
+langgraph
+langgraph-checkpoint-postgres
+langchain-groq
+requests
+fastapi
+uvicorn
+pydantic
+python-dotenv
